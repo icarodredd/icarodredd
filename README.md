@@ -13,4 +13,6 @@ Fullstack Developer.
 
 ![icarodredd's Stats](https://github-readme-stats.vercel.app/api?username=icarodredd&theme=prussian&show_icons=true&hide_border=true&count_private=false)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icarodredd&hide_progress=false&theme=radical&hide=CSS,PHP)
+
                     
