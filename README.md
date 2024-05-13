@@ -1,30 +1,19 @@
-## Olá, meu nome é Ícaro!
+<div align="center">
+  <img src="https://github.com/icarodredd/icarodredd/assets/78151906/f9d54bd1-d40d-417a-8485-4b5d78441ce0" width="800">
+</div>
+<br>
 
-### ⚙️ GitHub Analytics
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=icarodredd&show_icons=true&include_all_commits=true&theme=dark"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarodredd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=icarodredd&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=icarodredd&show_icons=true&theme=dark" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=icarodredd&theme=dark" width="425">
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icarodredd&theme=dark">
+</p>
+
+
+
+
+
