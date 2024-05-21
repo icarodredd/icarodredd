@@ -13,4 +13,4 @@ front-end: next, react, figma, tailwindcss
 back-end: node, spring boot
 
 ```
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icarodredd&theme=dark)[![GitHub Streak](https://streak-stats.demolab.com?user=icarodredd&theme=dark&border_radius=&card_width=560)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icarodredd&theme=dark)[![GitHub Streak](https://streak-stats.demolab.com?user=icarodredd&theme=dark&border_radius=&card_width=400)](https://git.io/streak-stats)
