@@ -8,9 +8,9 @@ founded: axemdev
 
 languages: java, sql, typescript, javascript
 
-front-end: next, react, figma, tailwindcss
+front-end: next, react, figma, tailwindcss, vite
 
-back-end: node, spring boot
+back-end: node, spring boot, postgresql, mysql, mongodb
 
 ```
 
