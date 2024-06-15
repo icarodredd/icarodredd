@@ -15,7 +15,7 @@ back-end: node, spring boot, postgresql, mysql, mongodb
 ```
 
 <div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=icarodredd&theme=dark" />
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=icarodredd&theme=dark&include_all_commits=true" />
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 40%;" class="img" src="https://streak-stats.demolab.com?user=icarodredd&theme=dark&border_radius=&card_width=400)](https://git.io/streak-stats" />
