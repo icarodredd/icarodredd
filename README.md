@@ -4,14 +4,15 @@
 
 ```yaml
 
-founded: axemdev
+Languages: Typescript, Javascript, SQL.
 
-languages: java, sql, typescript, javascript
+Frameworks and Libraries: React, Next, Apollo GraphQL, Redux, Node, MaterialUI, TailwindCSS, Bootstrap.
 
-front-end: next, react, figma, tailwindcss, vite
+Testing: Jest, Playwright.
 
-back-end: node, spring boot, postgresql, mysql, mongodb
+Tools: Git, Vite, Figma.
 
+Databases: PostgreSQL, MySQL, MongoDB.
 ```
 
 <div class='container'>
