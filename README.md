@@ -6,7 +6,7 @@
 
 Languages: Typescript, Javascript, SQL.
 
-Frameworks and Libraries: React, Next, Apollo GraphQL, Redux, Node, MaterialUI, React Query, Styled Components, TailwindCSS, Bootstrap.
+Frameworks and Libraries: React, Next, Angular, Apollo GraphQL, Redux, Node, MaterialUI, React Query, Styled Components, TailwindCSS, Bootstrap.
 
 Testing: Jest, Playwright.
 
